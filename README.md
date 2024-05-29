@@ -1,5 +1,5 @@
 **Hello, world! Olá, mundo!**
-- My name is Andrey Estevam Seabra, and I'm a double major in Computer Science and Mathematics at the University of Richmond.
+- My name is Andrey Estevam Seabra, and I'm a double major in Computer Science and Mathematics with a Concentration in Data Science and Statistics at the University of Richmond.
 - Pronouns: he/him
 - Home country: Brazil 🇧🇷
 - Email: andrey.estevamseabra@richmond.edu
