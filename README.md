@@ -3,7 +3,12 @@ Computer Science, Mathematics, Data Science and Statistics student at the Univer
 My work spans robotics systems, full-stack development, and applied machine learning. I'm drawn to problems that require both theoretical rigor and clean, production-ready implementation. Highly interested and curious about turning creative ideas/solutions to real-world problems into computational problems.
 
 # Honors
-Honors: Richmond Scholar (Full-Ride; 11,500+ applicants), International STEM Medalist (High School; World's Top 3 Medalist, first Latin American in a major STEM olympiad), Dean’s List, All-A’s List, Metcalf Prize (5 sophomores awarded), Omicron Delta Kappa (Top 5%)
+- Richmond Scholar (Full-Ride; 11,500+ applicants)
+- International STEM Medalist (High School; World's Top 3 Medalist, first Latin American in a major STEM olympiad)
+- Dean’s List
+- All-A’s List
+- Metcalf Prize (5 sophomores awarded)
+- Omicron Delta Kappa (Top 5%)
 
 # Some of my experience
 Software Engineer, Human and Intelligent Vehicle Ensemble Lab (Aug 2025 – Present)
