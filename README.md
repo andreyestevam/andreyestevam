@@ -1,15 +1,30 @@
-# 💫 About Me:
-As 1 of just 25 recipients selected from over 12,500 applicants for the Richmond Scholars Class of 2027, the University of Richmond’s most prestigious academic merit award covering full tuition, housing, and meals, I thrive on tackling real-world problems using code, data, and mathematical thinking.<br><br>Currently double majoring in Computer Science and Mathematics, with a minor in Data Science & Statistics, I bring a unique blend of analytical rigor, global experience, and a deep passion for education and technology.<br><br>📈 A Track Record of Excellence:<br> • 🇧🇷 International STEM Olympiad Medalist: Represented Brazil in 8 international competitions, earning medals and global top rankings.<br> • 🧮 Math Educator & Innovator: Developed a mathematical formula to help younger students apply math to real-world scenarios, making abstract concepts more tangible.<br> • 🖥️ Campus Leader in Tech & Education: At Richmond, I serve as:<br>      • CS Research Assistant<br>      • Vice President of the ACM Chapter at University of Richmond<br>      • Teaching Assistant & Mentor for Math & CS<br>      • Grader for advanced CS courses<br>      • Instructional Tech Consultant (specializing in 3D printing & more)<br>      • Men’s Rugby Club Player<br><br>👀 What I’m Looking For:<br>I’m actively seeking internship opportunities in software engineering, data science, AI/ML, or ed-tech where I can apply my skills in algorithms, systems thinking, and education to build solutions that make a difference.<br><br>If you’re looking for a driven, creative, and impact-focused intern with a strong foundation in both theory and application, let’s connect.
+# Andrey Estevam Seabra
+Computer Science, Mathematics, Data Science and Statistics student at the University of Richmond (GPA: 3.89). Selected as a [Richmond Scholar](https://scholars.richmond.edu/), one of 25 recipients selected from +12,500 applicants for the university's most prestigious merit award (full-ride, covering full tuition, housing, and food).
+My work spans robotics systems, full-stack development, and applied machine learning. I'm drawn to problems that require both theoretical rigor and clean, production-ready implementation. Highly interested and curious about turning creative ideas/solutions to real-world problems into computational problems.
 
+# Honors
+Honors: Richmond Scholar (Full-Ride; 11,500+ applicants), International STEM Medalist (High School; World's Top 3 Medalist, first Latin American in a major STEM olympiad), Dean’s List, All-A’s List, Metcalf Prize (5 sophomores awarded), Omicron Delta Kappa (Top 5%)
 
-## 🌐 Socials:
+# Some of my experience
+Software Engineer, Human and Intelligent Vehicle Ensemble Lab (Aug 2025 – Present)
+- Designed and implemented a revamped application to manage 10+ robot location sensors, replacing a legacy Android/Java system and improving reliability for dozens of users
+- Built a cross-platform Bluetooth management layer in Python by analyzing existing Java Bluetooth code, expanding an Android-only system to support macOS, Windows, and Linux
+- Developed concurrent software using Python Async and multithreading to handle multiple processes, threads, and tasks, enabling real-time visualization of sensor location data
+
+Research Engineer, Human and Intelligent Vehicle Ensemble Lab (May 2024 – Present)
+- Engineered an estimation algorithm for DWM sensor data that increased prediction precision and reduced latency through iterative testing to improve robots' real-time autonomous decision-making
+- Implemented an Unscented Kalman Filter (UKF) for a nonlinear model and automated data-processing pipelines, reducing estimation error from 7.5 cm to 1.6 cm for a 78% improvement while boosting efficiency, and reliability in a high-noise indoor positioning system
+- Designed and developed the estimation algorithm as a ROS2 node, gaining experience with concurrent ROS2 nodes and real-time communication in distributed robotic systems
+
+# Skills
+- Programming Skills & Languages: Python, Java, C/ C++, SQL, R, JavaScript, TypeScript, LaTeX, Git, VSCode, Unix, Linux, Github
+- Frameworks, Tools & Technologies: Node. js, Next. js, Express, Flask, Spring Boot, REST APIs, PostgreSQL, SQLite3, MongoDB, Render, React, Tailwind CSS, HTML/ CSS, NumPy, Pandas, Scikit-Learn, Tensorflow, PyTorch, Matplotlib, Beautiful Soup, ROS2
+
+# Leadership
+- Vice-President, Association for Computing Machinery (ACM) (Sep 2024 - Present)
+- Member, Robotics Society at the University of Richmond (RobSoc) (Feb 2026 - Present)
+
+## 🌐 Social and Email:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreyestevam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andreyestevam.seabra@richmond.edu) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andreyestevam&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=andreyestevam&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyestevam&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+If you’re looking for a driven, creative, and impact-focused problem solver with a strong foundation in both theory and application, let’s connect.
