@@ -29,6 +29,7 @@ Research Engineer, Human and Intelligent Vehicle Ensemble Lab (May 2024 – Pres
 - Vice-President, Association for Computing Machinery (ACM) (Sep 2024 - Present)
 - Vice-President, Robotics Society at the University of Richmond (RobSoc) (Feb 2026 - Present)
 - Lead Software Developer, Robotics Society at the University of Richmond (RobSoc) (Feb 2026 - Present)
+- Richmond Scholars Ambassador, University of Richmond (2024-2025)
 
 ## 🌐 Social and Email:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreyestevam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andreyestevam.seabra@richmond.edu) 
